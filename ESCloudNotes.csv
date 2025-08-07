@@ -1,0 +1,5 @@
+#automap BMD,,,,,,,
+Symbol,Price Level,Note,Foreground Color,Background Color,Text Alignment,DIAMETER, DRAW_NOTE_PRICE_HORIZONTAL_LINE
+ESU5,6400,suck,#ffffff,#FF0000,left,2,TRUE
+ESU5,6410,your,#ffffff,#FF0000,center,1,TRUE
+ESU5,6370,dick,#ffffff,#FF0000,right,3,TRUE
